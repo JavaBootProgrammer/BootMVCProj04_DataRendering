@@ -6,8 +6,9 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<h1 style="color:red;text-align: center">welcome to Spring Boot Season finder results </h1>
+<h1 style="color:red;text-align: center">welcome to Spring Boot Season finder </h1>
 
+<h3 style="color:red;text-align: center"><a href="season">find season</a></h3>
 
 
 </body>
